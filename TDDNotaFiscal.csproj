@@ -44,6 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GeradorDeNotaFiscal.cs" />
+    <Compile Include="IAcaoAposGerarNota.cs" />
+    <Compile Include="IRelogio.cs" />
+    <Compile Include="ITabela.cs" />
     <Compile Include="Model\Pedido.cs" />
     <Compile Include="Model\SAP.cs" />
     <Compile Include="Program.cs" />
